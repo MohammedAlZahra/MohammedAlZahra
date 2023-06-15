@@ -28,4 +28,4 @@ I am in the final stretch of my Web Developement course (Backend Module)
 
 ### Socials
 
-<p align="left"> <a href="https://www.linkedin.com/in/https://www.linkedin.com/mynetwork/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/Mohammed Al Zahra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
