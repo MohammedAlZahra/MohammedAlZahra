@@ -4,9 +4,9 @@ Hi 👋 My name is Mohammed
 Junior Fullstack Web Developer (MERN)
 -------------------------------------
 
-I am in the final stretch of my Web Developement course (Backend Module)
 
-* 🌍  I'm based in I'm based in Leipzig, Germany
+
+* 🌍  I'm based in Leipzig, Germany
 
 ### Skills
 
